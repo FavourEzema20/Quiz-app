@@ -35,5 +35,7 @@ At the end, the final score is displayed and the user can restart the quiz.
 ## Technologies Used
 
 HTML: Structure of the app
+
 CSS: Styling and layout
+
 JavaScript: Logic and Interactivity
